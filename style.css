@@ -12,15 +12,12 @@ button{
     height: 180px;
     
     margin: 0px 10px 30px 20px;
-    img
+
 }
 .info-flex{
-    width : 90%;
-    display:flex;
-    justify-content: space-between;
-    align-items: :corner-present;
-    margin-right: auto;
-    margin-left: auto;
+    width : 90  ;
+   display:flex ;
+   
 }
 .flex{
     
