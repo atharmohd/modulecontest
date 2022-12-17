@@ -8,65 +8,48 @@ button{
 }
 .img1{
     width: 180px;
-
     height: 180px;
-    
-    margin: 0px 10px 30px 20px;
+     margin: 0px 10px 30px 20px;
 
 }
 .info-flex{
     width : 90  ;
    display:flex ;
-   
-}
+   }
 .flex{
-    
     display:flex;
-    
-    justify-content: space-between;
+ justify-content: space-between;
     align-items: center;
     margin-right: auto;
     margin-left: auto;
 }
 .img2{
-    width: 180px;
-
-height: 180px;
-
+    width: 180px;height: 180px;
 margin: 0px 10px 30px 20px;
 }
 .img3{
     width: 180px;
-
 height: 180px;
-
 margin: 0px 10px 30px 20px;
 }
-
 .img4{
     -webkit-flex-wrap: wrap;
     flex-wrap: wrap;
     width: 180px;
-
 height: 180px;
-
 margin: 0px 10px 30px 20px;
 }
 .img5{
     -webkit-flex-wrap: wrap;
     flex-wrap: wrap;
     width: 180px;
-
 height: 180px;
-
 margin: 0px 10px 30px 20px;
 }
 .img6{
     -webkit-flex-wrap: wrap;
     flex-wrap: wrap;
     width: 180px;
-
 height: 180px;
-
 margin: 0px 10px 30px 20px;
 }
